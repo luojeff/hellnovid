@@ -1,8 +1,13 @@
 # TODO
 1. Settle on final project vision
+  - Name?
+  - Features?
+  - General user flow?
 2. Plan out frontend
   - How to map out campus?
+  - Best data viz technique?
   - Best visualization tools?
+  - Input screen and data viz dashboard UI
 3. Plan out backend
   - Create API endpoints
 4. Plan out server
@@ -16,7 +21,7 @@
 - Fit to specific sponsor challenges (IBM?)
 
 # Description
-Campus volunteer-based contract-tracing and building density monitoring.
+Campus volunteer-based contact-tracing and building density monitoring.
 
 # Technologies
 Frontend

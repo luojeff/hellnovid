@@ -1,6 +1,6 @@
 # TODO
-~~1. Settle on final project vision
-    - data viz of factors affecting covid cases worldwide~~
+1. Settle on final project vision (DONE)
+    - data viz of factors affecting covid cases worldwide
 2. Plan out frontend
     - Map out the world
     - Map viz + accompanying graphs

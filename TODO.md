@@ -32,6 +32,7 @@ Python (?)
 covid data
  - https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
  - https://www.kaggle.com/paultimothymooney/oxford-covid19-government-response-tracker
+ - https://ourworldindata.org/coronavirus
  
  stringency index
  - https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md

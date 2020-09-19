@@ -1,6 +1,6 @@
 # TODO
-1. Settle on final project vision
-    - data viz of factors affecting covid cases worldwide
+~~1. Settle on final project vision
+    - data viz of factors affecting covid cases worldwide~~
 2. Plan out frontend
     - Map out the world
     - Map viz + accompanying graphs
@@ -8,6 +8,7 @@
 3. Plan out backend
 4. Decide on presentation logic
     - Probably run everything on localhost to avoid deployment?
+5. Create the Website
 
 # Consider
   - What APIs can we use?

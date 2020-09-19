@@ -19,7 +19,7 @@ Data viz of factors affecting covid cases worldwide
 # Technologies
 
 *Visualization technologies*
-D3, pure JavaScript, Google Maps API?, plot.ly, Tableau
+~~D3, pure JavaScript, Google Maps API?, plot.ly,~~ Tableau
 
 *Backend*
 Python (?)
@@ -41,3 +41,15 @@ covid data
  education data
  - https://en.unesco.org/covid19/educationresponse
  - https://www.worldbank.org/en/data/interactive/2020/03/24/world-bank-education-and-covid-19
+ 
+ # Viz
+ *over time*
+ - cases vs. stringency
+ - cases vs. government response 
+ - cases vs. education shutdown
+ - cases vs. unumployment/economic support
+ *more graphs*
+ - government response index, stringency, containment/health, economic (compare all the factors against each other)
+ 
+ # Explanation
+ - Use PCA to vizualize the stringency indices based on the features

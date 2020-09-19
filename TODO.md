@@ -1,20 +1,20 @@
 # TODO
 1. Settle on final project vision
-  - data viz of factors affecting covid cases worldwide
+    - data viz of factors affecting covid cases worldwide
 2. Plan out frontend
-  - Map out the world
-  - Map viz + accompanying graphs
-  - Input screen and data viz dashboard UI
+    - Map out the world
+    - Map viz + accompanying graphs
+    - Input screen and data viz dashboard UI
 3. Plan out backend
-5. Decide on presentation logic
-  - Probably run everything on localhost to avoid deployment?
+4. Decide on presentation logic
+    - Probably run everything on localhost to avoid deployment?
 
 # Consider
-- What APIs can we use?
-- Fit to specific sponsor challenges (Arrow Street)
+  - What APIs can we use?
+  - Fit to specific sponsor challenges (Arrow Street)
 
 # Description
-Data viz of factors affecting covid cases worldwide
+  - Data viz of factors affecting covid cases worldwide
 
 # Technologies
 
@@ -50,6 +50,7 @@ covid data
  - cases vs. unumployment/economic support
  *more graphs*
  - government response index, stringency, containment/health, economic (compare all the factors against each other)
+ - dynamically sizing bar charts (?)
  
  # Explanation
  - Use PCA to vizualize the stringency indices based on the features

@@ -1,1 +1,101 @@
+html {
+    scroll-behavior: smooth;
+}
 
+body {
+    font-family: 'Noto Serif', serif;
+    width: 100%;
+}
+
+#body {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+    width: 500px;
+    text-transform: lowercase;
+}
+
+#title {
+    margin-top: 20%;
+    margin-left: 60%;
+    height: 100%;
+}
+
+#attributes {
+    text-align: left;
+    margin-left: 0%;
+}
+
+p {
+    text-align: left;
+    font-family: 'Merriweather Sans', sans-serif;
+    line-height: 25px;
+}
+
+blockquote {
+    text-align: left;
+    font-size: 35px;
+    color: #9e9e9e;
+}
+
+.blockquote {
+    height: 100%;
+
+    margin-right: auto;
+    margin-left: auto;}
+
+#description, #authors {
+    text-align: left;   
+    display: block;
+    top: -50%;
+}
+
+.content {
+    width: 600px;
+    margin-right: auto;
+    height: 100%;
+    margin-left: auto;
+}
+
+b {
+    background-color: #eb9534;
+    color: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#footer {
+    width: 100%;
+    background-color: #eb9534;
+    color: #fff;
+}
+
+#smallfooter {
+    width: 500px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+tr, td, th {
+    text-align: left;
+    border-spacing: 3px;
+}
+
+td {
+    width: 500px;
+}
